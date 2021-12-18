@@ -1,0 +1,47 @@
+START: 2021-12-17 07:45:47.838557 -0400 -04 m=+0.000787251
+Get "http://gopl.io": dial tcp 52.88.110.197:80: connect: network is unreachable
+Get "http://google.com": dial tcp: i/o timeout
+30.00s elapsed
+START: 2021-12-17 07:46:37.961184 -0400 -04 m=+0.000611668
+Get "http://gopl.io": dial tcp 52.88.110.197:80: connect: network is unreachable
+23.74s   15089 http://google.com
+23.74s elapsed
+START: 2021-12-17 07:47:12.806097 -0400 -04 m=+0.000638001
+0.36s   15125 http://google.com
+1.34s    4154 http://gopl.io
+1.34s elapsed
+START: 2021-12-17 07:47:21.73594 -0400 -04 m=+0.000782126
+0.36s   15072 http://google.com
+1.08s    4154 http://gopl.io
+1.08s elapsed
+START: 2021-12-17 07:47:28.987425 -0400 -04 m=+0.000942084
+0.48s   15110 http://google.com
+1.08s    4154 http://gopl.io
+1.08s elapsed
+START: 2021-12-17 07:47:49.857941 -0400 -04 m=+0.000642626
+0.36s   15102 http://google.com
+0.92s    4154 http://gopl.io
+1.62s  344483 http://amazon.com
+1.62s elapsed
+START: 2021-12-17 07:48:04.234918 -0400 -04 m=+0.000617834
+0.34s   15084 http://google.com
+0.92s    4154 http://gopl.io
+1.28s  349462 http://amazon.com
+1.29s elapsed
+START: 2021-12-17 07:48:14.674707 -0400 -04 m=+0.000629209
+0.35s   15093 http://google.com
+0.92s    4154 http://gopl.io
+1.36s  341111 http://amazon.com
+1.36s elapsed
+START: 2021-12-17 07:48:39.59025 -0400 -04 m=+0.000639251
+0.35s   15069 http://google.com
+0.95s    4154 http://gopl.io
+1.28s   82986 http://facebook.com
+1.32s  340965 http://amazon.com
+1.32s elapsed
+START: 2021-12-17 07:48:46.575387 -0400 -04 m=+0.000641834
+0.38s   15107 http://google.com
+0.95s    4154 http://gopl.io
+1.21s   82984 http://facebook.com
+1.43s  337555 http://amazon.com
+1.43s elapsed
